@@ -1,9 +1,13 @@
 body {
     padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-    background: #E6CCA6 url(../images/bg.png) repeat fixed;
+    background: rgb(238, 212, 174)url(../images/bg3.png) repeat fixed;
 }
 
 a {
     color: #00B7FF;
+}
+
+.mainbox {
+    margin-top: 70px;
 }
